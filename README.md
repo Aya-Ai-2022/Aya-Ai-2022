@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aya S</h1>
 <h3 align="center">I'm passionate about Data Science</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya-Ai-2022)](https://github.com/Aya-Ai-2022/Aya-Ai-2022/github-readme-stats)
+
 - 🔭 I’m currently working on **Data science projects**
 
 - 🌱 I’m currently learning **Front-end web development**
