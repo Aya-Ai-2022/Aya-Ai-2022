@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data science & ML projects**
 
-- 💬 Ask me about [Data Analysis , Data science & ML](Data Analysis , Data science & ML)
+- 💬 Ask me about Data Analysis , Data science & ML.
 
 - 📫 How to reach me **aya2020ds@gmail.com**
 
