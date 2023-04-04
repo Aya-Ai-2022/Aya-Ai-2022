@@ -1,0 +1,19 @@
+# This is a basic workflow to help you get started with Actions
+
+          
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 4 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: Aya-Ai-2022/badge-readme@main
+        with:       
+          CREDLY_USER: aya-sarhan # optional, but default will use the same from github
+
